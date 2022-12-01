@@ -1,4 +1,4 @@
-//inspect console copy and paste then press enter //
+//inspect console copy and paste then press enter sometimes there is a glitch where it will not work on new words. Just reenter the code and it should work //
 var interval = {
 "test": "",
 "click": "",
